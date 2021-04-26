@@ -6,7 +6,7 @@ The thing comes with no specifications whatsoever. There is no information on ho
 
 As you can see, there are 3 spacers coming up from the bottom of the chassis: ![chassis](images/chassis.jpg). 
 
-I had to figure out the layout of the spacers and how they relate to the resto of the tank.
+I had to figure out the layout of the spacers and how they relate to the rest of the tank.
 
 ## Solution
 
@@ -20,6 +20,7 @@ The spacer furthest away from the motors is quite a bit higher than the other tw
 
 I printed the entire drawing on an index card, then taped it to the PVC board and drilled the holes through the card.
 
+I used M2 screws and an M3 washer under the screw for the large hole.
 
 # Results
 
