@@ -18,6 +18,9 @@ The holes are marked with metric diameters, but I actually used nearest imperial
 
 The spacer furthest away from the motors is quite a bit higher than the other two, so I had to drill a large hole to let it through my top. I used 1/8" PVC board for the top. With that, I ended up adding 3 washers under the top to level the board on the high spacer with the two low spacers.
 
+I printed the entire drawing on an index card, then taped it to the PVC board and drilled the holes through the card.
+
+
 # Results
 
 This is what the final result looks like: ![final](images/final.jpg)
